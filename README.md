@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; background-color: #f2f2f2; padding: 10px; border-radius: 10px;">
     <div style="margin-right: 5px;">
-        <img align="left" src="https://orhun.dev/img/crow.png" style="width: 160px; height: auto;">
+        <img align="left" src="https://orhun.dev/img/crow.png" style="width: 180px; height: auto;">
     </div>
 <div style="text-align: center; max-width: 600px; margin: 0 auto;">
   <h2 style="color: #333;">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
